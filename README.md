@@ -1,13 +1,15 @@
 ### Hi there! I'm Junior Leoncio 👋
 
 
-- 🔭 I am currently working as an iOS Developer
-- 🌱 I’m currently learning Swift and SwiftUI
+- 💻 I'm an iOS developer
+- ⌨️ I'm in love with Swift and SwiftUI
 
-<div>
-  <a href="https://github.com/juniorleoncio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juniorleoncio&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorleoncio&layout=compact&langs_count=16&theme=dracula"/>
- </div>
+- <h3>Skills</h3>
+- Swift
+- SwiftUI
+- MVVM
+- Firebase
+- REST API
+
 
   
