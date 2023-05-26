@@ -7,6 +7,7 @@
 - <h3>Skills</h3>
 - Swift
 - SwiftUI
+- UIKit
 - MVVM
 - Firebase
 - REST API
